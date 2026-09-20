@@ -1,12 +1,10 @@
 ---
-id: null
-
 title: Gitのためのユーザー管理ツールを作った
 tags:
-  - 'Git'
+  - Git
 private: false
-updated_at: ''
-
+updated_at: '2026-09-21T02:11:47+09:00'
+id: d13152e94358e1e75b24
 organization_url_name: null
 slide: false
 ignorePublish: false
